@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "dbdlinkedlist.h": "c",
+        "dbdll.h": "c"
+    }
+}

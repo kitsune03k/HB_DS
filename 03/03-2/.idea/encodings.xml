@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ArrayList.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ArrayList.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ListMain.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NameCard.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NameCard.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NameCardListMain.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Point.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Point.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PointListMain.c" charset="UTF-8" />
+    <file url="PROJECT" charset="x-windows-949" />
+  </component>
+</project>

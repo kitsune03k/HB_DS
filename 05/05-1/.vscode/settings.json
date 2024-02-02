@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "clinkedlist.h": "c",
+        "stdio.h": "c"
+    },
+    "cmake.configureOnOpen": true
+}
